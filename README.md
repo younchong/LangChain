@@ -1,3 +1,11 @@
+# LangChain Tutorial
+
+Teddy note LanghChain Tutorial을 통한 학습
+반복, 지속할 수 있는 환경을 설정하여 학습 
+추후 서비스 만드는 것 까지 목표.
+
+(모든 제작권과 상세한 정보는 아래 Teddy note에 있습니다.)
+
 # 📘 LangChain 한국어 튜토리얼
 
 ![](images/welcome.png)
